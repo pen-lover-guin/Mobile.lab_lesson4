@@ -1,0 +1,2 @@
+include ':app', ':thread', ':thread2', ':data_thread', ':looper', ':asynctask', ':loadermanger'
+rootProject.name='lab_lesson4'
